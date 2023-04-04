@@ -16,5 +16,10 @@
 :point_right: 변경되지 않거나 번들링이 필요없는 정적파일을 ./static 디렉토리 내에 포함하는 것 권장.
 
 
-## ref
+
+
+<br>
+
+
+### ref
 https://stackoverflow.com/questions/48808182/nuxt-assets-and-static-folder-when-to-use-which
