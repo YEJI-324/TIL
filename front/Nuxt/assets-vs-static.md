@@ -1,4 +1,7 @@
 # assets vs static
+
+정적파일을 assets이나 static 폴더에 저장.
+
 ## :one: assets
 [공식문서](https://nuxtjs.org/docs/directory-structure/assets/)
 - Webpack loader → 번들링 처리.
