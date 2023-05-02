@@ -1,5 +1,5 @@
 # Nuxt Lifecyele
-![nuxt lifecycle](assets/nuxt-lifecycle.jpg)
+![nuxt lifecycle](../assets/nuxt-lifecycle.jpg)
 
 ## nuxtServerInit
 - Universal 모드에서 사용할 수 있는 Store Action 메서드.
